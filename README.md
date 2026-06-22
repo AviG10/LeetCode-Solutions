@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0796-rotate-string](https://github.com/AviG10/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/AviG10/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/AviG10/LeetCode-Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1871-jump-game-vii](https://github.com/AviG10/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/AviG10/LeetCode-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AviG10/LeetCode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0396-rotate-function](https://github.com/AviG10/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/AviG10/LeetCode-Solutions/tree/master/0788-rotated-digits) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/AviG10/LeetCode-Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/AviG10/LeetCode-Solutions/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/AviG10/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
 | [2463-minimum-total-distance-traveled](https://github.com/AviG10/LeetCode-Solutions/tree/master/2463-minimum-total-distance-traveled) |
