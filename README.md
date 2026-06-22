@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/AviG10/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3612-process-string-with-special-operations-i](https://github.com/AviG10/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/3614-process-string-with-special-operations-ii) |
+| [3838-weighted-word-mapping](https://github.com/AviG10/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Counting
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/AviG10/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/AviG10/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/AviG10/LeetCode-Solutions/tree/master/1840-maximum-building-height) |
+| [3838-weighted-word-mapping](https://github.com/AviG10/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/AviG10/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/3614-process-string-with-special-operations-ii) |
+| [3838-weighted-word-mapping](https://github.com/AviG10/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Linked List
 |  |
 | ------- |
