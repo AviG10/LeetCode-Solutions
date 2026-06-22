@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/AviG10/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/AviG10/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/AviG10/LeetCode-Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AviG10/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AviG10/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AviG10/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1871-jump-game-vii](https://github.com/AviG10/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AviG10/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/AviG10/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/AviG10/LeetCode-Solutions/tree/master/0874-walking-robot-simulation) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AviG10/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1914-cyclically-rotating-a-grid](https://github.com/AviG10/LeetCode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/AviG10/LeetCode-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AviG10/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/AviG10/LeetCode-Solutions/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AviG10/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AviG10/LeetCode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AviG10/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/AviG10/LeetCode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
