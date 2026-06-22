@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/AviG10/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AviG10/LeetCode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/AviG10/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AviG10/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/AviG10/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/AviG10/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AviG10/LeetCode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/AviG10/LeetCode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/AviG10/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [1306-jump-game-iii](https://github.com/AviG10/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
+| [1382-balance-a-binary-search-tree](https://github.com/AviG10/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AviG10/LeetCode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AviG10/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/AviG10/LeetCode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/AviG10/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/AviG10/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AviG10/LeetCode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Enumeration
 |  |
@@ -347,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/AviG10/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/AviG10/LeetCode-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Design
 |  |
@@ -356,4 +361,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/AviG10/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
