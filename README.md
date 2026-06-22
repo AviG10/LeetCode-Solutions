@@ -29,18 +29,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/AviG10/LeetCode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/AviG10/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AviG10/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3838-weighted-word-mapping](https://github.com/AviG10/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/AviG10/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AviG10/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sorting
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/AviG10/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/AviG10/LeetCode-Solutions/tree/master/1840-maximum-building-height) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AviG10/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Counting Sort
 |  |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AviG10/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AviG10/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AviG10/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AviG10/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Stack
 |  |
@@ -115,5 +119,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AviG10/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 <!---LeetCode Topics End-->
