@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3488-closest-equal-element-queries](https://github.com/AviG10/LeetCode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/AviG10/LeetCode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3719-longest-balanced-subarray-i](https://github.com/AviG10/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AviG10/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AviG10/LeetCode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/AviG10/LeetCode-Solutions/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/AviG10/LeetCode-Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3689-maximum-total-subarray-value-i](https://github.com/AviG10/LeetCode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/AviG10/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AviG10/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/AviG10/LeetCode-Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/AviG10/LeetCode-Solutions/tree/master/2615-sum-of-distances) |
 | [3225-maximum-score-from-grid-operations](https://github.com/AviG10/LeetCode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/AviG10/LeetCode-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/AviG10/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
 |  |
 | ------- |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/AviG10/LeetCode-Solutions/tree/master/3161-block-placement-queries) |
+| [3719-longest-balanced-subarray-i](https://github.com/AviG10/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Ordered Set
 |  |
 | ------- |
@@ -353,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/AviG10/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/AviG10/LeetCode-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/AviG10/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Design
 |  |
 | ------- |
