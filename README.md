@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/AviG10/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1871-jump-game-vii](https://github.com/AviG10/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/AviG10/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/3614-process-string-with-special-operations-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/AviG10/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [1871-jump-game-vii](https://github.com/AviG10/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/AviG10/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Math
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1871-jump-game-vii](https://github.com/AviG10/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/AviG10/LeetCode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -144,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/AviG10/LeetCode-Solutions/tree/master/3161-block-placement-queries) |
+## Sliding Window
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/AviG10/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
