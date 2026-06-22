@@ -1,4 +1,3 @@
-// Space Optimization
 class Solution {
 private:
     int dist(int a, int b){
@@ -10,31 +9,22 @@ private:
         return abs(x1-x2) + abs(y1-y2);
 
     }
+    int f(int i, int finger1, int finger2, int &n,string &word, vector<vector<vector<int>>> &dp){
+        if(i == n) return 0;
+
+        if(dp[i][finger1][finger2] != -1) return dp[i][finger1][finger2];
+
+        int cur = word[i] - 'A';
+
+        int finger1Move = dist(finger1,cur) + f(i+1,cur,finger2,n,word,dp);
+        int finger2Move = dist(finger2,cur) + f(i+1,finger1,cur,n,word,dp);
+
+        return dp[i][finger1][finger2] = min(finger1Move, finger2Move);
+    }
 public:
     int minimumDistance(string word) {
         int n = word.size();
-        vector<vector<int>>  next(27,vector<int>(27,-1)), prev(27,vector<int>(27,-1));
-        
-        for(int finger1 = 0;finger1 <= 26;finger1++){
-            for(int finger2 = 0;finger2 <= 26;finger2++){
-                next[finger1][finger2] = 0;
-            }
-        }
-
-        for(int i = n-1;i >= 0;i--){
-            for(int finger1 = 0;finger1 <= 26;finger1++){
-                for(int finger2 = 0;finger2 <= 26;finger2++){
-                    int cur = word[i] - 'A';
-
-                    int finger1Move = dist(finger1,cur) + next[cur][finger2];
-                    int finger2Move = dist(finger2,cur) + next[finger1][cur];
-
-                    prev[finger1][finger2] = min(finger1Move, finger2Move);
-                }
-            }
-            next = prev;
-        }
-
-        return next[26][26];
+        vector<vector<vector<int>>> dp(n+1,vector<vector<int>> (27,vector<int>(27,-1)));
+        return f(0,26,26,n,word,dp);
     }
 };
