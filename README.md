@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/AviG10/LeetCode-Solutions/tree/master/1840-maximum-building-height) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AviG10/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AviG10/LeetCode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2574-left-and-right-sum-differences](https://github.com/AviG10/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3838-weighted-word-mapping](https://github.com/AviG10/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Greedy
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/AviG10/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [2574-left-and-right-sum-differences](https://github.com/AviG10/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Math
 |  |
 | ------- |
