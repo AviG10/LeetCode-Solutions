@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/AviG10/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AviG10/LeetCode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/AviG10/LeetCode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/AviG10/LeetCode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1732-find-the-highest-altitude](https://github.com/AviG10/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AviG10/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/AviG10/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/AviG10/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AviG10/LeetCode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AviG10/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/AviG10/LeetCode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/AviG10/LeetCode-Solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AviG10/LeetCode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AviG10/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/AviG10/LeetCode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Geometry
 |  |
 | ------- |
