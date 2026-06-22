@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/AviG10/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AviG10/LeetCode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## String
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/AviG10/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/AviG10/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/AviG10/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
