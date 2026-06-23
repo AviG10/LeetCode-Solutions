@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/AviG10/LeetCode-Solutions/tree/master/1345-jump-game-iv) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AviG10/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/AviG10/LeetCode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1980-find-unique-binary-string](https://github.com/AviG10/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/AviG10/LeetCode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/AviG10/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/AviG10/LeetCode-Solutions/tree/master/2615-sum-of-distances) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/AviG10/LeetCode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1871-jump-game-vii](https://github.com/AviG10/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AviG10/LeetCode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/AviG10/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/AviG10/LeetCode-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/AviG10/LeetCode-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AviG10/LeetCode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AviG10/LeetCode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/AviG10/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/AviG10/LeetCode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
+| [1980-find-unique-binary-string](https://github.com/AviG10/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AviG10/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AviG10/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/AviG10/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/AviG10/LeetCode-Solutions/tree/master/0401-binary-watch) |
+| [1980-find-unique-binary-string](https://github.com/AviG10/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 ## Rolling Hash
 |  |
 | ------- |
