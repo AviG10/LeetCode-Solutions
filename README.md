@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/AviG10/LeetCode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AviG10/LeetCode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/AviG10/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AviG10/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/AviG10/LeetCode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1980-find-unique-binary-string](https://github.com/AviG10/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AviG10/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AviG10/LeetCode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/AviG10/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/AviG10/LeetCode-Solutions/tree/master/1840-maximum-building-height) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AviG10/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AviG10/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2126-destroying-asteroids](https://github.com/AviG10/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AviG10/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/AviG10/LeetCode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/AviG10/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/AviG10/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AviG10/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2574-left-and-right-sum-differences](https://github.com/AviG10/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/AviG10/LeetCode-Solutions/tree/master/2615-sum-of-distances) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/AviG10/LeetCode-Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/AviG10/LeetCode-Solutions/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AviG10/LeetCode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/AviG10/LeetCode-Solutions/tree/master/1840-maximum-building-height) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AviG10/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AviG10/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AviG10/LeetCode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AviG10/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -404,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/AviG10/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/AviG10/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1861-rotating-the-box](https://github.com/AviG10/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AviG10/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/AviG10/LeetCode-Solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AviG10/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3225-maximum-score-from-grid-operations](https://github.com/AviG10/LeetCode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
@@ -445,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AviG10/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AviG10/LeetCode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Binary Search Tree
