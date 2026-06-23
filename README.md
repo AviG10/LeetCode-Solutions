@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AviG10/LeetCode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AviG10/LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/AviG10/LeetCode-Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/AviG10/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/AviG10/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/AviG10/LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AviG10/LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AviG10/LeetCode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/AviG10/LeetCode-Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AviG10/LeetCode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AviG10/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/AviG10/LeetCode-Solutions/tree/master/0796-rotate-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/AviG10/LeetCode-Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Union-Find
 |  |
 | ------- |
