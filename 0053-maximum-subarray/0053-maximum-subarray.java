@@ -1,3 +1,4 @@
+// Kadane's Algorithm
 class Solution {
     public int maxSubArray(int[] nums) {
         int n = nums.length;
@@ -8,7 +9,7 @@ class Solution {
             sum += nums[i];
 
             if(sum > maxi){
-                maxi = Math.max(maxi, sum);
+                maxi = sum;
             }
 
             if(sum < 0) sum = 0;
