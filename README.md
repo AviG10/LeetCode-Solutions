@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/AviG10/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AviG10/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/AviG10/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0396-rotate-function](https://github.com/AviG10/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0525-contiguous-array](https://github.com/AviG10/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AviG10/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AviG10/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1340-jump-game-v](https://github.com/AviG10/LeetCode-Solutions/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AviG10/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AviG10/LeetCode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/AviG10/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/AviG10/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/AviG10/LeetCode-Solutions/tree/master/0190-reverse-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/AviG10/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AviG10/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/AviG10/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/AviG10/LeetCode-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -545,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AviG10/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/AviG10/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AviG10/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AviG10/LeetCode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -595,4 +599,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/AviG10/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AviG10/LeetCode-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AviG10/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
