@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/AviG10/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AviG10/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/AviG10/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AviG10/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0874-walking-robot-simulation](https://github.com/AviG10/LeetCode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AviG10/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/AviG10/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/AviG10/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AviG10/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AviG10/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Dynamic Programming
@@ -626,4 +628,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AviG10/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/AviG10/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
