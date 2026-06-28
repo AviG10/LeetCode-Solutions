@@ -1,4 +1,28 @@
-// Standard Sort
+// Counting Sort (Optimized)
+// TC : O(n)
+// SC : O(n)
+class Solution {
+    public int maximumElementAfterDecrementingAndRearranging(int[] arr) {
+        int n = arr.length;
+        int[] freq = new int[n + 1];
+
+        for (int i = 0; i < n; i++) {
+            freq[Math.min(arr[i], n)]++;
+        }
+
+        int maxEle = 1;
+
+        for (int val = 2; val <= n; val++) {
+            maxEle = Math.min(maxEle + freq[val], val);
+        }
+
+        return maxEle;
+    }
+}
+
+
+
+// Standard Sort (Brute Force)
 // TC : O(n * logn)
 // SC : O(1)
 // class Solution {
@@ -21,24 +45,4 @@
 //     }
 // }
 
-// Counting Sort (Optimized)
-// TC : O(n)
-// SC : O(n)
-class Solution {
-    public int maximumElementAfterDecrementingAndRearranging(int[] arr) {
-        int n = arr.length;
-        int[] freq = new int[n + 1];
 
-        for (int i = 0; i < n; i++) {
-            freq[Math.min(arr[i], n)]++;
-        }
-
-        int maxEle = 1;
-
-        for (int val = 2; val <= n; val++) {
-            maxEle = Math.min(maxEle + freq[val], val);
-        }
-
-        return maxEle;
-    }
-}
