@@ -1,3 +1,6 @@
+// DFS + Memoization
+// TC: O(m * n * health)
+// SC: O(m * n)
 class Solution {
 private:
     bool isValid(int i, int j, int& m, int& n) {
@@ -6,7 +9,7 @@ private:
 
     bool solve(int i, int j, int health, int& m, int& n, vector<vector<int>>& grid, vector<vector<bool>>& vis, vector<vector<vector<int>>>& dp) {
         if(health < 1) return false;
-        
+
         if (i == m - 1 && j == n - 1) {
             if (health >= 1)
                 return true;
