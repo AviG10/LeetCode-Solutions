@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/AviG10/LeetCode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AviG10/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AviG10/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1301-number-of-paths-with-max-score](https://github.com/AviG10/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/AviG10/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/AviG10/LeetCode-Solutions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/AviG10/LeetCode-Solutions/tree/master/1345-jump-game-iv) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/AviG10/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/AviG10/LeetCode-Solutions/tree/master/0799-champagne-tower) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AviG10/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [1301-number-of-paths-with-max-score](https://github.com/AviG10/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/AviG10/LeetCode-Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/AviG10/LeetCode-Solutions/tree/master/1340-jump-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AviG10/LeetCode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AviG10/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [1301-number-of-paths-with-max-score](https://github.com/AviG10/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AviG10/LeetCode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AviG10/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AviG10/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
