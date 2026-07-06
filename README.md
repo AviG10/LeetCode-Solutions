@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/AviG10/LeetCode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AviG10/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AviG10/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1288-remove-covered-intervals](https://github.com/AviG10/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/AviG10/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/AviG10/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/AviG10/LeetCode-Solutions/tree/master/1340-jump-game-v) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AviG10/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AviG10/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1288-remove-covered-intervals](https://github.com/AviG10/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/AviG10/LeetCode-Solutions/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AviG10/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AviG10/LeetCode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
