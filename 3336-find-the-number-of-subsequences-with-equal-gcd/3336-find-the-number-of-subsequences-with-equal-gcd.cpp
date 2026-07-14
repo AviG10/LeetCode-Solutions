@@ -1,26 +1,6 @@
 class Solution {
 private:
     int MOD = 1e9 + 7;
-
-    int solve(int i, int gcd1, int gcd2, int& n, vector<int>& nums, vector<vector<vector<int>>> &dp) {
-        if (i == n) {
-            bool gcdNonZero = (gcd1 != 0 && gcd2 != 0);
-            bool gcdEqual = (gcd1 == gcd2);
-
-            return (gcdNonZero && gcdEqual) ? 1 : 0;
-        }
-
-        if(dp[i][gcd1][gcd2] != -1) return dp[i][gcd1][gcd2];
-
-        int skip = solve(i + 1, gcd1, gcd2, n, nums, dp);
-
-        int take_seq1 = solve(i + 1, __gcd(gcd1, nums[i]), gcd2, n, nums, dp);
-
-        int take_seq2 = solve(i + 1, gcd1, __gcd(gcd2, nums[i]), n, nums, dp);
-
-        return dp[i][gcd1][gcd2] = ((long long)skip + take_seq1 + take_seq2) % MOD;
-    }
-
 public:
     int subsequencePairCount(vector<int>& nums) {
         int n = nums.size();
@@ -28,6 +8,29 @@ public:
         
         vector<vector<vector<int>>> dp(n + 1, vector<vector<int>>(maxEle + 1, vector<int>(maxEle + 1, -1)));
 
-        return solve(0, 0, 0, n, nums, dp);
+        for(int gcd1 = 0; gcd1 <= maxEle; gcd1++){
+            for(int gcd2 = 0; gcd2 <= maxEle; gcd2++){
+                bool gcdNonZero = (gcd1 != 0 && gcd2 != 0);
+                bool gcdEqual = (gcd1 == gcd2);
+
+                dp[n][gcd1][gcd2] = (gcdNonZero && gcdEqual) ? 1 : 0;
+            }
+        }
+
+        for(int i = n-1; i >= 0; i--){
+            for(int gcd1 = 0; gcd1 <= maxEle; gcd1++){
+                for(int gcd2 = 0; gcd2 <= maxEle; gcd2++){
+                    int skip = dp[i + 1][gcd1][gcd2];
+
+                    int take_seq1 = dp[i + 1][__gcd(gcd1, nums[i])][gcd2];
+
+                    int take_seq2 = dp[i + 1][gcd1][__gcd(gcd2, nums[i])];
+
+                    dp[i][gcd1][gcd2] = ((long long)skip + take_seq1 + take_seq2) % MOD;
+                }
+            }
+        }
+
+        return dp[0][0][0];
     }
 };
