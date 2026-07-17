@@ -28,7 +28,6 @@ public:
             }
         }
 
-        // Compute Cummulative Sum
         for (int i = 1; i <= maxEle; i++) {
             pairsGCDInfo[i] += pairsGCDInfo[i - 1];
         }
