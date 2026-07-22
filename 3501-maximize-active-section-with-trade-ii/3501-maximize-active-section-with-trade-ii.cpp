@@ -28,10 +28,8 @@ private:
         return max(rangeQueryHelper(left, right, 2 * i + 1, l, mid),
                    rangeQueryHelper(left, right, 2 * i + 2, mid + 1, r));
     }
-
+    
 public:
-    SegmentTree() {}
-
     SegmentTree(vector<int>&nums, int size) {
         n = size;
         segTree.resize(4 * n, 0);
