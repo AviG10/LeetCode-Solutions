@@ -6,7 +6,6 @@ public:
         if(n == 1) return 1;
 
         unordered_set<int> st;
-
         for(int i = 0;i < n;i++){
             for(int j = i;j < n;j++){
                 st.insert(nums[i] ^ nums[j]);
