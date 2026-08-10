@@ -1,25 +1,22 @@
 class Solution {
-private:
-    bool solve(int n, vector<int>& dp) {
-        if (n <= 0)
-            return false;
-
-        if (dp[n] != -1)
-            return dp[n];
-
-        bool ans = false;
-        for (int i = 1; i * i <= n; i++) {
-            if (solve(n - i * i, dp) == false) {
-                ans = true;
-            }
-        }
-
-        return dp[n] = ans;
-    }
-
 public:
     bool winnerSquareGame(int n) {
         vector<int> dp(n + 1, -1);
-        return solve(n, dp);
+
+        dp[0] = 0;
+
+        for(int num = 1; num <= n;num++){
+            bool ans = false;
+
+            for (int i = 1; i * i <= num; i++) {
+                if (dp[num - i * i] == false) {
+                    ans = true;
+                }
+            }
+
+            dp[num] = ans;
+        }
+
+        return dp[n];
     }
 };
