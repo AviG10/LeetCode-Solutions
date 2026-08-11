@@ -2,10 +2,11 @@ class Solution {
 public:
     int missingInteger(vector<int>& nums) {
         int n = nums.size();
+        
         int prefixSum = nums[0];
         bool prefix = true;
+        
         unordered_map<int, int> mp;
-
         mp[nums[0]]++;
 
         for(int i = 1;i < n;i++){
