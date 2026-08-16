@@ -1,24 +1,17 @@
 class Solution {
 public:
     int longestSubsequence(vector<int>& nums) {
-        int totalXor = 0;
-        int len = nums.size();
-        for (int ele : nums)
-            totalXor ^= ele;
-        
-        if (totalXor != 0)
-            return len;
-        
-        for (int ele : nums) {
-            if (ele == 0)
-                continue;
-            
-            totalXor ^= ele;
-            len--;
-            
-            if (totalXor != 0)
-                return len;
+        int n = nums.size();
+        bool allZero = true;
+        int resultXor = 0;
+
+        for (int i = 0; i < n; i++) {
+            resultXor = resultXor ^ nums[i];
+
+            if (nums[i] != 0)
+                allZero = false;
         }
-        return 0;
+
+        return allZero ? 0 : resultXor ? n : n - 1;
     }
 };
