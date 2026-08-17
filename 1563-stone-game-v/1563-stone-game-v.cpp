@@ -1,37 +1,37 @@
 class Solution {
-private:
-    int solve(int start, int end, vector<int>& stones, vector<vector<int>> &dp) {
-        if (start > end)
-            return 0;
-
-        if(dp[start][end] != -1) return dp[start][end];
-
-        int right = 0;
-        for (int i = start; i <= end; i++)
-            right += stones[i];
-
-        int left = 0;
-        int ans = 0;
-        for (int i = start; i <= end; i++) {
-            left += stones[i];
-            right -= stones[i];
-
-            if (left < right)
-                ans = max(ans, left + solve(start, i, stones, dp));
-            else if (left == right)
-                ans = max(ans, left + max(solve(start, i, stones, dp),
-                                          solve(i + 1, end, stones, dp)));
-            else
-                ans = max(ans, right + solve(i + 1, end, stones, dp));
-        }
-
-        return dp[start][end] = ans;
-    }
-
 public:
     int stoneGameV(vector<int>& stones) {
         int n = stones.size();
-        vector<vector<int>> dp(n, vector<int>(n, -1));
-        return solve(0, n - 1, stones, dp);
+        vector<vector<int>> dp(n+1, vector<int>(n+1, 0));
+
+        for (int start = n - 1; start >= 0; start--) {
+            for (int end = 0; end <= n - 1; end++) {
+                if (start > end)
+                    continue;
+
+                int right = 0;
+                for (int i = start; i <= end; i++)
+                    right += stones[i];
+
+                int left = 0;
+                int ans = 0;
+                for (int i = start; i <= end; i++) {
+                    left += stones[i];
+                    right -= stones[i];
+
+                    if (left < right)
+                        ans = max(ans, left + dp[start][i]);
+                    else if (left == right)
+                        ans =
+                            max(ans, left + max(dp[start][i], dp[i + 1][end]));
+                    else
+                        ans = max(ans, right + dp[i + 1][end]);
+                }
+
+                dp[start][end] = ans;
+            }
+        }
+
+        return dp[0][n - 1];
     }
 };
