@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/AviG10/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/AviG10/LeetCode-Solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/AviG10/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AviG10/LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3161-block-placement-queries](https://github.com/AviG10/LeetCode-Solutions/tree/master/3161-block-placement-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AviG10/LeetCode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/AviG10/LeetCode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AviG10/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AviG10/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/AviG10/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/AviG10/LeetCode-Solutions/tree/master/3379-transformed-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/AviG10/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/3614-process-string-with-special-operations-ii) |
