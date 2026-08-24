@@ -1,18 +1,4 @@
 class Solution {
-private:
-    int maxDiff(int i, int& n, vector<int>& prefixSum, vector<int>& dp) {
-        if (i == n - 1)
-            return prefixSum[n - 1];
-
-        if (dp[i] != INT_MIN)
-            return dp[i];
-
-        int notTake = maxDiff(i + 1, n, prefixSum, dp);
-        int take = prefixSum[i] - maxDiff(i + 1, n, prefixSum, dp);
-
-        return dp[i] = max(take, notTake);
-    }
-
 public:
     int stoneGameVIII(vector<int>& stones) {
         int n = stones.size();
@@ -24,7 +10,15 @@ public:
             prefixSum[i] = prefixSum[i - 1] + stones[i];
 
         vector<int> dp(n + 1, INT_MIN);
+        dp[n-1] = prefixSum[n-1];
 
-        return maxDiff(1, n, prefixSum, dp);
+        for(int i = n-2;i >= 1; i--){
+            int notTake = dp[i + 1];
+            int take = prefixSum[i] - dp[i + 1];
+
+            dp[i] = max(take, notTake);
+        }
+
+        return dp[1];
     }
 };
