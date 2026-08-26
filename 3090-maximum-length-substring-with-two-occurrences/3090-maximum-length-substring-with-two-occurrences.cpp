@@ -1,23 +1,23 @@
 class Solution {
 public:
-    int maximumLengthSubstring(string s) {
-        int n = s.length();
-        unordered_map<char, int> mp;
+    int maximumLengthSubstring(string nums) {
+        int n = nums.length();
         int i = 0, j = 0;
-        int ans = 0;
+        int result = 0;
+        unordered_map<char, int> mp;
 
         while(j < n){
-            mp[s[j]]++;
+            mp[nums[j]]++;
 
-            while(mp[s[j]] > 2){
-                mp[s[i]]--;
+            while(mp[nums[j]] > 2){
+                mp[nums[i]]--;
                 i++;
             }
 
-            ans = max(ans, j-i+1);
+            result = max(result, j - i + 1);
             j++;
         }
-
-        return ans;
+        
+        return result;
     }
 };
