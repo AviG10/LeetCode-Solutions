@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/AviG10/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AviG10/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/AviG10/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AviG10/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1840-maximum-building-height](https://github.com/AviG10/LeetCode-Solutions/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AviG10/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/AviG10/LeetCode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AviG10/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AviG10/LeetCode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/AviG10/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AviG10/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AviG10/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/AviG10/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AviG10/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/AviG10/LeetCode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AviG10/LeetCode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/AviG10/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AviG10/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1840-maximum-building-height](https://github.com/AviG10/LeetCode-Solutions/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AviG10/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AviG10/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/AviG10/LeetCode-Solutions/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/AviG10/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AviG10/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1871-jump-game-vii](https://github.com/AviG10/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/AviG10/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AviG10/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -610,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AviG10/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AviG10/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AviG10/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AviG10/LeetCode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/AviG10/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AviG10/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -654,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AviG10/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/AviG10/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AviG10/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AviG10/LeetCode-Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1871-jump-game-vii](https://github.com/AviG10/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AviG10/LeetCode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AviG10/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
