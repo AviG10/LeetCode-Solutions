@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AviG10/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/AviG10/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/AviG10/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0392-is-subsequence](https://github.com/AviG10/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AviG10/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/AviG10/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/AviG10/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/AviG10/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/AviG10/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0392-is-subsequence](https://github.com/AviG10/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/AviG10/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AviG10/LeetCode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/AviG10/LeetCode-Solutions/tree/master/1861-rotating-the-box) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AviG10/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AviG10/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/AviG10/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/AviG10/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/AviG10/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/AviG10/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/AviG10/LeetCode-Solutions/tree/master/0788-rotated-digits) |
