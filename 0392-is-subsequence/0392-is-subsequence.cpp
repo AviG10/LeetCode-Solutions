@@ -1,24 +1,27 @@
 class Solution {
+private:
+    int findNext(int j, char c, string &t){
+        if(j == t.length())
+            return -1;
+        
+        if(c == t[j]) 
+            return j;
+        
+        return findNext(j+1, c, t);
+    }
 public:
     bool isSubsequence(string s, string t) {
-        int m = s.length(), n = t.length();
-        vector<int> prev(n + 1, -1), cur(n + 1, -1);
+        int cur_j = 0;
 
-        for (int j = 0; j <= n; j++)
-            prev[j] = true;
-
-        cur[n] = false;
-
-        for (int i = m - 1; i >= 0; i--) {
-            for (int j = n - 1; j >= 0; j--) {
-                if (s[i] == t[j])
-                    cur[j] = prev[j + 1] || cur[j + 1];
-                else
-                    cur[j] = cur[j + 1];
-            }
-            prev = cur;
+        for(char &ch : s){
+            int next_idx = findNext(cur_j, ch, t);
+            
+            if(next_idx == -1) 
+                return false;
+            else
+                cur_j = next_idx + 1;
         }
 
-        return prev[0];
+        return true;
     }
 };
