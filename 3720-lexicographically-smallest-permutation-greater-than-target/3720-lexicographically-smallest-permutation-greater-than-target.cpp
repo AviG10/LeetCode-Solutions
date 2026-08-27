@@ -1,3 +1,6 @@
+// BackTracking + Greedy Algorithm
+// TC: O(n)
+// SC: O(n)
 class Solution {
 private:    
     bool solve(string &cur, vector<int> &freq, string &target, int i, bool greater, string &result){
