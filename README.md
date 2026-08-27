@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/AviG10/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/AviG10/LeetCode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AviG10/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1052-grumpy-bookstore-owner](https://github.com/AviG10/LeetCode-Solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1140-stone-game-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AviG10/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/AviG10/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
@@ -673,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/AviG10/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/AviG10/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/AviG10/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
+| [1052-grumpy-bookstore-owner](https://github.com/AviG10/LeetCode-Solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AviG10/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AviG10/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AviG10/LeetCode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
