@@ -10,6 +10,8 @@ private:
         for(int jump = 1; jump <= nums[i]; jump++){
             if(i + jump < n) 
                 isPossible = isPossible || f(i+jump, n, nums, dp);
+            if(isPossible)
+                break;
         }
 
         return dp[i] = isPossible;
