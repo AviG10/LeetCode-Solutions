@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AviG10/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AviG10/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0322-coin-change](https://github.com/AviG10/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/AviG10/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/AviG10/LeetCode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0396-rotate-function](https://github.com/AviG10/LeetCode-Solutions/tree/master/0396-rotate-function) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AviG10/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/AviG10/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/AviG10/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/AviG10/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/AviG10/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/AviG10/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/AviG10/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
@@ -720,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/AviG10/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [1306-jump-game-iii](https://github.com/AviG10/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/AviG10/LeetCode-Solutions/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AviG10/LeetCode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -961,4 +964,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/AviG10/LeetCode-Solutions/tree/master/0139-word-break) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/AviG10/LeetCode-Solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/AviG10/LeetCode-Solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
