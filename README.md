@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/AviG10/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/AviG10/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AviG10/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0740-delete-and-earn](https://github.com/AviG10/LeetCode-Solutions/tree/master/0740-delete-and-earn) |
 | [0874-walking-robot-simulation](https://github.com/AviG10/LeetCode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/AviG10/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/AviG10/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/AviG10/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/AviG10/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/AviG10/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/AviG10/LeetCode-Solutions/tree/master/0740-delete-and-earn) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AviG10/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/AviG10/LeetCode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0874-walking-robot-simulation](https://github.com/AviG10/LeetCode-Solutions/tree/master/0874-walking-robot-simulation) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/AviG10/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/AviG10/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/AviG10/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [0740-delete-and-earn](https://github.com/AviG10/LeetCode-Solutions/tree/master/0740-delete-and-earn) |
 | [0788-rotated-digits](https://github.com/AviG10/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/AviG10/LeetCode-Solutions/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/AviG10/LeetCode-Solutions/tree/master/0877-stone-game) |
