@@ -1,16 +1,4 @@
 class Solution {
-private:
-    int solve(int i, vector<int>& nums, vector<int> &dp){
-        if(i == 1)
-            return nums[i-1];
-        if(i == 0) 
-            return 0;
-        
-        if(dp[i] != -1)
-            return dp[i];
-
-        return dp[i] = max(nums[i-1] + solve(i - 2, nums, dp), solve(i - 1, nums, dp));
-    }
 public:
     int rob(vector<int>& nums) {
         int n = nums.size();
@@ -29,6 +17,17 @@ public:
 
         vector<int> dp1(n, -1), dp2(n, -1);
 
-        return max(solve(n-1, numsWithoutFirstEle, dp1), solve(n-1, numsWithoutLastEle, dp2));
+        dp1[0] = 0;
+        dp1[1] = numsWithoutFirstEle[0];
+
+        dp2[0] = 0;
+        dp2[1] = numsWithoutLastEle[0];
+
+        for(int i = 2; i < n; i++){
+            dp1[i] = max(numsWithoutFirstEle[i-1] + dp1[i - 2], dp1[i - 1]);
+            dp2[i] = max(numsWithoutLastEle[i-1] + dp2[i - 2], dp2[i - 1]);
+        }
+
+        return max(dp1[n-1], dp2[n-1]);
     }
 };
