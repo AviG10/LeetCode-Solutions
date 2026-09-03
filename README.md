@@ -645,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/AviG10/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AviG10/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/AviG10/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AviG10/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/AviG10/LeetCode-Solutions/tree/master/0337-house-robber-iii) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AviG10/LeetCode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -659,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/AviG10/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AviG10/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/AviG10/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AviG10/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/AviG10/LeetCode-Solutions/tree/master/0337-house-robber-iii) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AviG10/LeetCode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -678,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/AviG10/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AviG10/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/AviG10/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AviG10/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/AviG10/LeetCode-Solutions/tree/master/0337-house-robber-iii) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AviG10/LeetCode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -904,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0401-binary-watch](https://github.com/AviG10/LeetCode-Solutions/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AviG10/LeetCode-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/AviG10/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
