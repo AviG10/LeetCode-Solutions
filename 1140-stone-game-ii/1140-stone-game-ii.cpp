@@ -6,9 +6,9 @@ private:
 
         if(dp[player][i][M] != -1) 
             return dp[player][i][M];
-        
-        int ans = (player == 0) ? INT_MIN : INT_MAX;
+
         int stones = 0;
+        int ans = (player == 0) ? INT_MIN : INT_MAX;
 
         for (int x = 1; x <= min(2 * M, n - i); x++) {
             stones += piles[i + x - 1];
@@ -25,11 +25,8 @@ private:
 public:
     int stoneGameII(vector<int>& piles) {
         int n = piles.size();
-        vector<vector<vector<int>>> dp(2, vector<vector<int>>(n+1, vector<int>(n+1, -1)));
+        vector<vector<vector<int>>> dp(2,vector<vector<int>>(n+1, vector<int>(n+1, -1)));
 
         return solve(0, 0, 1, n, piles, dp);
     }
 };
-
-// 0 - Alice
-// 1 - Bob
