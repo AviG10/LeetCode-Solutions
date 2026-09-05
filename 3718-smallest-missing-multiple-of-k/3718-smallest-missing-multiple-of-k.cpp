@@ -1,7 +1,7 @@
 class Solution {
 public:
     int missingMultiple(vector<int>& nums, int k) {
-        unordered_map<int, int> mp;
+        unordered_map<int,int> mp;
         int n = nums.size();
 
         for(int i = 0; i < n; i++){
@@ -10,12 +10,12 @@ public:
             }
         }
 
-        int multi = 1;
-
-        while(mp[multi] > 0){
-            multi++;
+        int result = 1;
+        
+        while(mp[result] > 0){
+            result++;
         }
 
-        return multi * k;
+        return result * k;
     }
 };
