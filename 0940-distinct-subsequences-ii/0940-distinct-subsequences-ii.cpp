@@ -1,23 +1,6 @@
 class Solution {
 private:
     int MOD = 1e9 + 7;
-
-    long long solve(int i, vector<int>& prevOccur, vector<long long>& dp) {
-        if (i == 0)
-            return 1;
-
-        if (dp[i] != -1)
-            return dp[i];
-
-        long long total = (2LL * solve(i - 1, prevOccur, dp)) % MOD;
-
-        if (prevOccur[i - 1] >= 0)
-            total = (total - solve(prevOccur[i - 1], prevOccur, dp) + MOD) %
-                    MOD;
-
-        return dp[i] = total;
-    }
-
 public:
     int distinctSubseqII(string s) {
         int n = s.length();
@@ -32,6 +15,17 @@ public:
 
         vector<long long> dp(n + 1, -1);
 
-        return (solve(n, prevOccur, dp) - 1 + MOD) % MOD;
+        dp[0] = 1;
+
+        for (int i = 1; i <= n; i++) {
+            long long total = (2LL * dp[i - 1]) % MOD;
+
+            if (prevOccur[i - 1] >= 0)
+                total = (total - dp[prevOccur[i - 1]] + MOD) % MOD;
+
+            dp[i] = total;
+        }
+
+        return (dp[n] - 1 + MOD) % MOD;
     }
 };
