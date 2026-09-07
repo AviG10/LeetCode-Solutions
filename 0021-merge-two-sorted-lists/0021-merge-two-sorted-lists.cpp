@@ -11,42 +11,20 @@
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        ListNode* head1 = list1;
-        ListNode* head2 = list2;
+        if(list1 == NULL) return list2;
+        if(list2 == NULL) return list1;
 
-        ListNode* dummy = new ListNode();
-        ListNode* dummyCopy = dummy;
+        ListNode* node = new ListNode();
 
-        while(head1 != NULL && head2 != NULL){
-            ListNode* newNode;
-
-            if(head1->val < head2->val){
-                newNode = new ListNode(head1->val);
-                head1 = head1->next;
-            }
-            else{
-                newNode = new ListNode(head2->val);
-                head2 = head2->next;
-            }
-
-            dummyCopy->next = newNode;
-            dummyCopy = dummyCopy->next;   
+        if(list1->val < list2->val){
+            node->val = list1->val;
+            node->next = mergeTwoLists(list1->next, list2);
+        }
+        else {
+            node->val = list2->val;
+            node->next = mergeTwoLists(list1, list2->next);
         }
 
-        while(head1 != NULL){
-            ListNode* newNode = new ListNode(head1->val);
-            dummyCopy->next = newNode;
-            dummyCopy = dummyCopy->next;
-            head1 = head1->next;
-        }
-
-        while(head2 != NULL){
-            ListNode* newNode = new ListNode(head2->val);
-            dummyCopy->next = newNode;
-            dummyCopy = dummyCopy->next;
-            head2 = head2->next;
-        }
-
-        return dummy->next;
+        return node;
     }
 };
