@@ -1133,4 +1133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AviG10/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/AviG10/LeetCode-Solutions/tree/master/0202-happy-number) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AviG10/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
