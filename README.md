@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AviG10/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/AviG10/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/AviG10/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/AviG10/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0312-burst-balloons](https://github.com/AviG10/LeetCode-Solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/AviG10/LeetCode-Solutions/tree/master/0322-coin-change) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AviG10/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/AviG10/LeetCode-Solutions/tree/master/0143-reorder-list) |
+| [0283-move-zeroes](https://github.com/AviG10/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/AviG10/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/AviG10/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AviG10/LeetCode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
