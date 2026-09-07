@@ -14,38 +14,36 @@ public:
         ListNode* first = head;
         ListNode* second = head->next;
         ListNode* third = head->next->next;
+
         int ind = 1;
-        vector<int> maxMinIdx;
+        vector<int> minMaxIdx;
 
-        while(third != NULL){
-            if(second->val > third->val && second->val > first->val){
-                maxMinIdx.push_back(ind);
-            }
+        while (third != NULL) {
+            if (second->val > first->val && second->val > third->val)
+                minMaxIdx.push_back(ind);
 
-            if(second->val < third->val && second->val < first->val){
-                maxMinIdx.push_back(ind);
-            }
-            
-            third = third->next;
-            second = second->next;
-            first = first->next;
+            if (second->val < first->val && second->val < third->val)
+                minMaxIdx.push_back(ind);
 
             ind++;
+
+            first = first->next;
+            second = second->next;
+            third = third->next;
         }
 
-        int n = maxMinIdx.size();
+        int n = minMaxIdx.size();
 
-        if(n < 2) 
+        if (n < 2)
             return {-1, -1};
 
-        int minDist = INT_MAX;
-        int maxDist = INT_MIN;
+        int maxDistance = minMaxIdx[n - 1] - minMaxIdx[0];
 
-        for(int i = 1; i < n; i++)
-            minDist = min(minDist, maxMinIdx[i] - maxMinIdx[i-1]);
-        
-        maxDist = maxMinIdx[n-1] - maxMinIdx[0];
+        int minDistance = minMaxIdx[1] - minMaxIdx[0];
 
-        return {minDist, maxDist};
+        for (int i = 2; i < n; i++)
+            minDistance = min(minDistance, minMaxIdx[i] - minMaxIdx[i - 1]);
+
+        return {minDistance, maxDistance};
     }
 };
