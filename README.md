@@ -719,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/AviG10/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/AviG10/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AviG10/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/AviG10/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AviG10/LeetCode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1306-jump-game-iii](https://github.com/AviG10/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
 | [1382-balance-a-binary-search-tree](https://github.com/AviG10/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
@@ -852,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/AviG10/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/AviG10/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AviG10/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/AviG10/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/AviG10/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1306-jump-game-iii](https://github.com/AviG10/LeetCode-Solutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/AviG10/LeetCode-Solutions/tree/master/1345-jump-game-iv) |
@@ -924,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AviG10/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AviG10/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/AviG10/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/AviG10/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AviG10/LeetCode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AviG10/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/AviG10/LeetCode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -1010,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/AviG10/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/AviG10/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/AviG10/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AviG10/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/AviG10/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
@@ -1163,4 +1167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AviG10/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/AviG10/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/AviG10/LeetCode-Solutions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
