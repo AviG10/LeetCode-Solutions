@@ -8,7 +8,7 @@ public:
             nums[i] = nums[i] % k;
 
         for (int x = 0; x <= k - 1; x++) {
-            vector<vector<long long>> dp(n + 1, vector<long long>(k + 1, 0));
+            vector<long long> prev(k+1, 0), cur(k + 1, 0);
 
             for (int i = n - 1; i >= 0; i--) {
                 
@@ -17,7 +17,7 @@ public:
                     long long notTake = 0;
 
                     if (prevProd == k)
-                        notTake = dp[i + 1][prevProd];
+                        notTake = prev[prevProd];
 
                     // Take
                     long long curProd;
@@ -26,13 +26,15 @@ public:
                     else
                         curProd = (prevProd * nums[i]) % k;
 
-                    long long take = (curProd == x) + dp[i + 1][curProd];
+                    long long take = (curProd == x) + prev[curProd];
 
-                    dp[i][prevProd] = (notTake + take);
+                    cur[prevProd] = (notTake + take);
                 }
+
+                prev = cur;
             }
 
-            result[x] = dp[0][k];
+            result[x] = prev[k];
         }
 
         return result;
