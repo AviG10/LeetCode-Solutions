@@ -16,11 +16,12 @@ private:
               unordered_map<TreeNode*, vector<int>>& mp) {
         if (root == NULL)
             return 0;
+        
+        if(!mp.count(root))
+            mp[root] = {-1, -1};
 
-        if (mp.count(root) && mp[root][canRob] != -1)
+        if (mp[root][canRob] != -1)
             return mp[root][canRob];
-
-        mp[root] = {-1, -1};
 
         int notTake =
             solve(root->left, true, mp) + solve(root->right, true, mp);
