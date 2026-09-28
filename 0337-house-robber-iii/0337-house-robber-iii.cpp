@@ -26,7 +26,7 @@ private:
         int notTake =
             solve(root->left, true, mp) + solve(root->right, true, mp);
 
-        int take = -1e9;
+        int take = INT_MIN;
         if (canRob)
             take = root->val + solve(root->left, false, mp) +
                    solve(root->right, false, mp);
