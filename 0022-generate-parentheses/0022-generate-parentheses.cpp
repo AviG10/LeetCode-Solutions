@@ -20,7 +20,7 @@ private:
         solve(openBracket - 1, closedBracket, s, result);
         s.pop_back();
 
-        if(s != "" && openBracket < closedBracket){
+        if(openBracket < closedBracket){
             s += ")";
             solve(openBracket, closedBracket-1, s, result);
             s.pop_back();
