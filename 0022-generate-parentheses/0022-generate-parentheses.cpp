@@ -15,22 +15,15 @@ private:
 
             return;
         }
+        
+        s += "(";
+        solve(openBracket - 1, closedBracket, s, result);
+        s.pop_back();
 
-        if(s == ""){
-            s += "(";
-            solve(openBracket - 1, closedBracket, s, result);
+        if(s != "" && openBracket < closedBracket){
+            s += ")";
+            solve(openBracket, closedBracket-1, s, result);
             s.pop_back();
-        }   
-        else{
-            s += "(";
-            solve(openBracket - 1, closedBracket, s, result);
-            s.pop_back();
-
-            if(openBracket < closedBracket){
-                s += ")";
-                solve(openBracket, closedBracket-1, s, result);
-                s.pop_back();
-            }
         }
     }
 public:
