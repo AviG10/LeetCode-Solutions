@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/AviG10/LeetCode-Solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AviG10/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/AviG10/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/AviG10/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/AviG10/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/AviG10/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/AviG10/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AviG10/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0678-valid-parenthesis-string](https://github.com/AviG10/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AviG10/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/AviG10/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/AviG10/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/AviG10/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AviG10/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/AviG10/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/AviG10/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/AviG10/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AviG10/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -669,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/AviG10/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/AviG10/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/AviG10/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/AviG10/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0740-delete-and-earn](https://github.com/AviG10/LeetCode-Solutions/tree/master/0740-delete-and-earn) |
 | [0788-rotated-digits](https://github.com/AviG10/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/AviG10/LeetCode-Solutions/tree/master/0799-champagne-tower) |
@@ -1256,6 +1260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/AviG10/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AviG10/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/AviG10/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AviG10/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AviG10/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AviG10/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
